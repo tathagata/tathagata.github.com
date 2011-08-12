@@ -59,7 +59,7 @@ background:#f3f3f3;
 .bpage div {
 -webkit-column-count:2;
 -moz-column-count:2;
--moz-column-gap:22px;
+-moz-column-gap:600px;
 -webkit-coulmn-gap:22px;
 }
 aside section {
